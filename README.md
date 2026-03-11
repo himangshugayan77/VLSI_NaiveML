@@ -1,5 +1,5 @@
 # A Naive Machine Learning Processor
-VLSI 1 Final Project by Michael Ebenstein (control_cell) and Ian SymSmith (compute_tile)
+VLSI 1 Final Project by Himangshu Gayan
 
 For a detailed explanation see our [report](report.pdf).
 
@@ -46,4 +46,5 @@ vcs -full64 -f cmd_fl -debug
 
 #### Matrix-multiplication
 ![](benchmark/matrix-multiplication.png)
+
 
